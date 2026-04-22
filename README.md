@@ -1,55 +1,37 @@
 # Hudson Latimer
 
-Junior Frontend Web Developer  
-IT Programming Student – Nova Scotia Community College  
-Halifax, Nova Scotia, Canada
+IT Programming Graduate · Web Developer · Technical Operator
 
-## About
+I build practical web and technical systems for businesses — websites, automations, SEO foundations, support workflows, and AI-assisted development processes.
 
-I am an IT Programming student focused on web and frontend development. I enjoy building responsive web applications and working with modern tools and frameworks. My experience includes developing websites, integrating APIs, and deploying applications.
+Currently completing my NSCC IT Programming work placement with GoLocalQuote and building Latimer Digital as an early-stage web/SEO service brand.
 
-## Technical Skills
+## Focus Areas
 
-Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-- TypeScript
+- Web development
+- Technical support
+- Local SEO foundations
+- AI-assisted development
+- Website maintenance
+- Business automation
+- Documentation
 
-Backend / Tools
-- Node.js
-- Supabase
-- REST APIs
-- Stripe API
-- Git
-- GitHub
+## Tech Stack
 
-Deployment
-- Netlify
-- Vercel
+**Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS  
+**Backend / Data:** Node.js, SQL, Supabase, APIs  
+**Support / Tools:** Windows Support, DNS, Hosting, Git/GitHub, Documentation  
+**AI Workflow:** Cursor, Claude Code, ChatGPT, AI-assisted development
 
-## Selected Projects
+## Current Projects
 
-Portfolio Website  
-Personal portfolio showcasing my development projects.  
-https://github.com/Hudsonlatimer/Portfolio-Website
-
-TheWordHub  
-Website for a Halifax-based nonprofit providing community resources and outreach.  
-https://github.com/Hudsonlatimer/TheWordHub
-
-LatysFoundation  
-Website for the Noah Latimer Foundation supporting youth athletes and community programs.  
-https://github.com/Hudsonlatimer/LatysFoundation
-
-## Education
-
-Nova Scotia Community College  
-IT Programming Diploma  
-Expected Graduation: 2026
+- Personal portfolio: hudsonlatimer.com
+- Early-stage business brand: Latimer Digital
+- GoLocalQuote work placement project
+- Local service business website demos
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/hudsonlatimer  
-Email: W0510975@nscc.ca
+Website: https://hudsonlatimer.com  
+LinkedIn: https://www.linkedin.com/in/hudsonlatimer/
+Email: hudsonlatimer4@gmail.com
